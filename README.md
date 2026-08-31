@@ -4,6 +4,10 @@ A premium, framework-free HTML template for a traditional men's barbershop. Buil
 
 Razor & Tonic is designed around the craft of classic barbering: a full-width hero with a hand-coded CSS barber pole, a precision service menu, a transparent price table, an elegant portfolio gallery, testimonials with a warm towel finish, and a booking form that works out of the box.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
